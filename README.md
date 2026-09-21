@@ -1,7 +1,7 @@
 # ITE 18 Topic 4 - Class Resource Loader
 
 **Section:** FNHP1
-**Name:** Garong
+**Name:** Jia Marie Garong
 
 
 ## Part 1: Predictions A to F Answers
